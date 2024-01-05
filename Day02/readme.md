@@ -1,0 +1,1 @@
+This is a CSS styled webpage about The sitcom Comedy directed by chris Rock.(Yeas the guy who was slapped by Will Smith) :)
