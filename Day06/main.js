@@ -97,3 +97,6 @@ console.log ();
 console.log(calculateCircleArea(5));
 
 //arrow function
+let division = (a,b) => a / b;
+console.log();
+console.log(division(10,2));
