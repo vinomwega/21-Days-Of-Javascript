@@ -81,3 +81,19 @@ console.log(greetByNationality('Swahili'));
 
 //3 mathemtical functions using the 3 ways of writing functions(declaration, expression, arrow)
 
+//function declaration
+function add(a,b){
+    return a + b;
+}
+console.log();
+console.log(add(7,7));
+
+//function expression
+let calculateCircleArea = function(radius){
+    const area = Math.PI * radius * radius;
+    return area;
+}
+console.log ();
+console.log(calculateCircleArea(5));
+
+//arrow function
